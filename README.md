@@ -1,4 +1,5 @@
-meu nome é **Anthony Matheus Otto de Lara**:grin:
+meu nome é **Anthony Matheus Otto de Lara** :grin:
+ 
 estou aprendendo a programar em
 >javascript
 
